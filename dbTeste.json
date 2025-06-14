@@ -1,0 +1,26 @@
+{
+    "produtos": [
+        {
+        "id": 1,
+        "nome": "Carrinho de Controle Remoto",
+        "preco": 129.90,
+        "descricao": "Carrinho movido a controle remoto com bateria recarregável e luzes LED.",
+        "imagem": "https://example.com/carrinho-controle-remoto.jpg"
+        },
+        {
+        "id": 2,
+        "nome": "Boneca Interativa",
+        "preco": 99.90,
+        "descricao": "Boneca que fala frases, canta músicas e se movimenta.",
+        "imagem": "https://example.com/boneca-interativa.jpg"
+        },
+        {
+        "id": 3,
+        "nome": "Blocos de Montar",
+        "preco": 59.90,
+        "descricao": "Conjunto com 300 peças coloridas para montar e criar formas diversas.",
+        "imagem": "https://example.com/blocos-de-montar.jpg"
+        }
+
+    ]
+}
